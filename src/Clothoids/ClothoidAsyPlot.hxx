@@ -31,7 +31,7 @@ namespace G2lib {
     void
     drawClothoid(
       ClothoidCurve const& c,
-      string const & penna="black",
+      // string const & penna="black",
       real_type offset = 0
     ) const;
 

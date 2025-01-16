@@ -37,7 +37,7 @@ namespace G2lib {
 
   void
   AsyPlot::drawClothoid( ClothoidCurve const & c,
-                         string const & penna,
+                        //  string const & penna,
                          real_type offset ) const {
   	if (offset == 0.) {
       fmt::print( file,
